@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class BasicsPageComponent {
 
+  public fullname:string='RaFA GoRTegA'
+  public customDate:Date=new Date();
 }
