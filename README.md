@@ -1,27 +1,40 @@
-# PipesApp
+# Pipes App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+## Descripción
+Pipes App es una aplicación en la cual me familiarizo con el uso de los pipes que ya existen en Angular como la creación de pipes personalizados tanto para mostrar visualmente la información como para trabajar con ella. Además para la parte visual nos servimos de PrimeNG, librería de componentes con la cual me familiarizo para agilizar la creación de aplicaciones web y movil con Angular.
 
-## Development server
+Esta aplicación la he realizado en el marco del curso que estoy haciendo en Udemy de @Klerith sobre Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologías Utilizadas
+- Angular
+- TypeScript
+- HTML
+- CSS
+- RxJS
+- PrimeNG
 
-## Code scaffolding
+## Características Clave
+Se muestran distintos pipes realizando sus funciones y modificando la apariencia visual de la información
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación
+Clona este repositorio: git clone https://github.com/tu-usuario/05-pipesApp.git
+Instala las dependencias: npm install
+Inicia el servidor de desarrollo: ng serve
 
-## Build
+## Uso
+Abre tu navegador y navega a http://localhost:4200/ para ver la aplicación en acción.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Licencia
+Este proyecto está bajo la Licencia MIT.
 
-## Running unit tests
+## Enlaces Relevantes
+[Demo en vivo](https://rafagortega.github.io/04-countryApp/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Créditos
+Agradecimientos a @Klerith ya que este proyecto es un paso a paso de un proyecto mostrado y que yo he seguido a través de su curso en Udemy
 
-## Running end-to-end tests
+## Licencia
+La Licencia MIT es común para proyectos de código abierto.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contacto
+Si tienes preguntas o comentarios, no dudes en contactarme a través de mi correo electrónico: [info@rafagortega.com](mailto:info@rafagortega.com)
